@@ -1,2 +1,2 @@
-# home-automation
-home and garden automation
+# WEATHER STATION based on ESPHome /ESP32
+
